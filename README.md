@@ -1,16 +1,5 @@
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-16 at 16 33 24](https://user-images.githubusercontent.com/86382174/227532691-883ea0f1-d7cb-4154-882b-73115012f513.png)|
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-16 at 20 44 38](https://user-images.githubusercontent.com/86382174/227532986-cd337d77-2038-47ea-809a-c7da62e89398.png)
 # chat_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this is catting application developed with flutter and dart and interated qith the stream api
